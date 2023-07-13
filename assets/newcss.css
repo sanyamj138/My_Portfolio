@@ -491,28 +491,64 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__html {
+.skills__c {
   width: 90%;
 }
+.skills__java {
+  width: 75%;
+}
+.skills__kotlin {
+  width: 72%;
+}
+.skills__cplus {
+  width: 75%;
+}
+.skills__dsalgo {
+  width: 85%;
+}
+.skills__oop {
+  width: 70%;
+}
+.skills__dbms {
+  width: 75%;
+}
+.skills__os {
+  width: 57%;
+}
+.skills__android {
+  width: 85%;
+}
+.skills__git {
+  width: 85%;
+}
+.skills__figma {
+  width: 55%;
+}
+.skills__firebase {
+  width: 75%;
+}
+.skills__html {
+  width: 89%;
+}
 .skills__css {
-  width: 80%;
+  width: 78%;
 }
 .skills__js {
-  width: 55%;
+  width: 57%;
 }
 .skills__react {
   width: 40%;
 }
-
+.skills__bootstap {
+  width: 53%;
+}
 .skills__php {
   width: 80%;
 }
 .skills__node {
   width: 70%;
 }
-.skills__firebase {
-  width: 75%;
-}
+
 .skills__python {
   width: 50%;
 }
